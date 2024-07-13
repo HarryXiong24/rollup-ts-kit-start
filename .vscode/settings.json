@@ -8,7 +8,7 @@
   },
   // 保存时 eslint 自动 fix
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   // 保存自动格式化
   "editor.formatOnSave": true,
